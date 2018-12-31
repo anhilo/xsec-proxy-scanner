@@ -25,7 +25,7 @@ THE SOFTWARE.
 package proxy
 
 import (
-	"h12.me/socks"
+	"h12.io/socks"
 
 	"proxy_scanner/models"
 	"proxy_scanner/util"
